@@ -1,28 +1,31 @@
-
----
-
-# Library Management System
-
-```markdown
 # Library Management System
 
 ## Overview
-A Python-based object-oriented application that manages books, members, and borrowing operations with persistent storage.
+A Python-based application that manages books, members, and borrowing operations using object-oriented programming.
 
 ## Features
 - Add and manage books
 - Register members
 - Borrow and return books
-- Search books by title or author
-- Custom exception handling
+- Search functionality
 - JSON data persistence
-- Interactive CLI menu
+- Custom exception handling
 
 ## Technologies Used
 - Python
-- OOP (Object-Oriented Programming)
+- OOP
 - JSON
 
 ## How to Run
-```bash
 python Library Management System.py
+
+## Screenshots
+
+### Menu
+![Menu](Menu.png)
+
+### Add Book and Search
+![Book Search](Add_Book_and_Book_Search.png)
+
+## Author
+Connor Warming
